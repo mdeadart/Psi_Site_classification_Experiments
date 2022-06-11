@@ -2,3 +2,6 @@
 Experiments workspace for Pseudouridine site classification in RNA sequences.
 
 *Master's Thesis work, at DFKI, Kaiserslautern with TU Kaiserslautern.*
+
+### Github acknowledgements:
+- https://github.com/Bonidia/MathFeature
